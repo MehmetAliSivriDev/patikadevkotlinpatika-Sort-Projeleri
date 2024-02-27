@@ -61,11 +61,13 @@ Big-O gösterimini yazınız.
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ## Proje 3 Cevabı
-
+```
 Root -> 5
 
         5
      3      7
    1   4  6   8
  0   2          9
+
+```
               
